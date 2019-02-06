@@ -1,0 +1,1 @@
+This is a project that I worked on to give a 1-hour lecture/self-learning slide to students who already had some foundations in C and C++, and especially teach them to implement linked list and stack in C, with some slightly complicated application of linked list in C. All the materials were created myself
